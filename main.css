@@ -1,0 +1,33 @@
+html, body {
+    height: 100%;
+    font-weight: 300;
+    font-family: 'Helvetica Neue', 'Helvetica', 'Lantinghei SC', 'Hiragino Sans GB', sans-serif;
+    line-height: 1.75em;
+    color: #333;
+}
+
+div.container{
+	width:100%;
+	max-width: 960px;
+	margin:0 auto;
+	padding:0 20px;
+}
+
+main{
+	width:100%;
+	max-width:720px;
+	margin: 0 auto;
+	padding-bottom:100pt;
+}
+div.motto{
+    font-family: "Lucida Sans Unicode",Times,serif;
+    font-size: 18pt;
+    font-weight: lighter;
+}
+div.meta {
+    text-indent: 0;
+    padding: .2rem .5rem;
+    background: #eee;
+    border-radius: 4px;
+    width: 50%;
+}
