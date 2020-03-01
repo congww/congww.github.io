@@ -1,0 +1,239 @@
+<!DOCTYPE HTML>
+<!--
+	Stellar by HTML5 UP
+	html5up.net | @ajlkn
+	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+-->
+<html>
+	<head>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1" />
+		<!--[if lte IE 8]><script src="assets/js/ie/html5shiv.js"></script><![endif]-->
+		<link rel="stylesheet" href="assets/css/main.css" />
+		<!--[if lte IE 9]><link rel="stylesheet" href="assets/css/ie9.css" /><![endif]-->
+		<!--[if lte IE 8]><link rel="stylesheet" href="assets/css/ie8.css" /><![endif]-->
+	</head>
+	<body>
+
+		<!-- Wrapper -->
+			<div id="wrapper">
+
+				<!-- Header -->
+					<header id="header" class="alt">
+						<span class="logo"><img src="images/logo.png" width = "85" height = "85" alt="" /></span>
+						<h1>Cong Wang</h1>
+						<p>Full Stack Developer | CE Graduate Student @ UIUC<br /></p>
+						<section>
+							<ul class="icons">
+								<li><a href="https://www.linkedin.com/in/congwang94/" class="icon fa-linkedin alt"><span class="label">LinkedIn</span></a></li>
+								<li><a href="https://github.com/congww" class="icon fa-github alt"><span class="label">GitHub</span></a></li>
+								<li><a href="mailto://congw2@illinois.com" class="icon fa-envelope alt"><span class="label">Mail</span></a></li>
+								<li><a href="https://twitter.com/congww" class="icon fa-twitter alt"><span class="label">Twitter</span></a></li>
+								<li><a href="https://www.facebook.com/cong.wang.3367" class="icon fa-facebook alt"><span class="label">Facebook</span></a></li>
+								<li><a href="#" class="icon fa-pencil alt"><span class="label">Blog</span></a></li>
+								
+							</ul>
+						</section>
+					</header>
+
+				<!-- Nav -->
+					<nav id="nav">
+						<ul>
+							<li><a href="#Summary" class="active">Summary</a></li>
+							<li><a href="#Education">Education</a></li>
+							<li><a href="#Experience">Experience</a></li>
+							<li><a href="#Projects">Projects</a></li>
+							<li><a href="#Skills">Skills</a></li>
+							<li><a href="#Interests">Interests</a></li>
+						</ul>
+					</nav>
+
+				<!-- Main -->
+					<div id="main">
+
+						<!-- Summary -->
+							<section id="Summary" class="main">
+								<div class="spotlight">
+									<div class="content">
+										<header class="major">
+											<h2>Summary</h2>
+										</header>
+										<p>Graduate student at UIUC ECE with a focus of Computer Engineering.
+										<br>
+										Email: congw2 AT illinois.edu
+										</p>
+									</div>
+									<span class="image"><img src="images/cw.png" alt="" /></span>
+								</div>
+							</section>
+
+						<!-- First Section -->
+							<section id="Education" class="main special">
+								<header class="major">
+									<h2>Education</h2>
+								</header>
+								<ul class="features">
+									<li>
+										<span class="image">
+										<a href= "https://www.ece.illinois.edu/">
+										<img src = "images/UIUC.jpg" width = "100" height = "130" alt="">
+										</a>
+										</span>
+										<h3>University of Illinois at Urbana-Champaign</h3>
+										<p>M.Eng. in Computer Engineering<br />
+										August 2016 - December 2017(expected)<br />
+										Urbana, IL</p>
+									</li>
+									<li>
+										<span class="image">
+										<a href= "http://en.sjtu.edu.cn/">
+										<img src="images/SJTU.png" width = "130" height = "130" alt="">
+										</a>
+										</span>
+										<h3>Shanghai Jiao Tong University</h3>
+										<p><br />B.S. in Information Engineering<br />
+										September 2012 - June 2016<br />
+										Shanghai, China</p>
+									</li>
+								</ul>
+								
+							</section>
+
+						<!-- Second Section -->
+							<section id="Experience" class="main special">
+								<header class="major">
+									<h2>Experience</h2>
+								</header>
+								<p>
+								<b>Incoming Software Development Engineer Intern @ Amazon</b>
+								<br>
+								<i>Start Date: May 2017</i>
+								</p>
+								<p></p><hr>
+								<p>
+								<b>Intelligent Internet of Things Research Center of SJTU</b> (Shanghai, China)
+								<br>
+								<i>February 2016 - June 2016</i>
+								<br>
+								Research Assistant
+								</p>
+								<ul>
+									<li>Deployed RFID(Radio Frequency IDentification) to implement books localization based on PDOA (Phase Difference Of Arrival) and RSSI (Received Signal Strength Indicator), diminished the error margin to less than 2 cm.</li>
+									<li>Implemented with C#. Used multi-path attenuation model for the localization algorithm.</li>
+								</ul>
+
+							</section>
+
+						<!-- Third Section -->
+							<section id="Projects" class="main special">
+								<header class="major">
+									<h2>Projects</h2>
+								</header>
+
+								<p>
+								<b>Better Director: A Database Driven System for Director Evaluation</b>
+								<br>
+								<i>Sepetember 2016 - December 2016</i>
+								<br>
+								<ul>
+									<li>Built a web-based application, which can evaluate selected movie directors' commercial performance.</li>
+									<li>nvolved various technologies, such as MariaDB, PHP, HTML, CSS, JavaScript and AJAX.</li>
+									<li>Designed comparison and recommendation algorithms to help movie investors choose better directors.</li>
+								</ul>
+								</p>
+
+								<p>
+								<b>Rel-Algebra ExtenDB: An Extended DBMS based on SimpleDB</b>
+								<br>
+								<i>Sepetember 2016 - December 2016</i>
+								<br>
+								<ul>
+									<li>Extended the functionality of SimpleDB, an open source DBMS written in Java, by appending a set of relational algebra operators.</li>
+									<li>Implemented functions including Set Union, Set Intersection, Cartesian Product and Equi-Join.</li>
+								</ul>
+								</p>
+
+								<p>
+								<b>Parallel Programming Applications using CUDA </b>
+								<br>
+								<i>Sepetember 2016 - December 2016</i>
+								<br>
+								<ul>
+									<li>Built a parallel prefix-sum scan system based on Kogge-Stone Tree and Brent-Kung Tree algorithm.</li>
+									<li>Designed a histogram equalization program for correcting image color using CUDA C.</li>
+								</ul>
+								</p>
+
+								<p>
+								<b>HTTP Proxy Protocol for Browsing Web Servers using PdTHT</b>
+								<br>
+								<i>Sepetember 2016 - October 2016</i>
+								<br>
+								<ul>
+									<li>Designed a HTTP proxy for connecting servers using PdTHT, a French version of HTTP.</li>
+									<li>Implemented various functions with Python, such as cache-control, cut-through forwarding and date transfer.</li>
+								</ul>
+								</p>
+
+							</section>
+
+							<!-- Fourth Section -->
+							<section id="Skills" class="main special">
+								<header class="major">
+									<h2>Skills</h2>
+								</header>
+								<p>
+								<ul>
+									<li>Database, Distributed Systems, Computer Vision, Parallel Programming</li>
+									<li>Java, C++/C, Python</li>
+									<li>PHP, JavaScript, CSS, HTML</li>
+									<li>SQL</li>
+								</ul>
+								</p>
+							</section>
+
+							<!-- Fourth Section -->
+							<section id="Interests" class="main special">
+								<header class="major">
+									<h2>Interests</h2>
+								</header>
+								<p>
+								Music
+								</p>
+								<p>
+								Swimming
+								</p>
+								<p>
+								Blog
+								</p>
+								<p>
+								Others
+								</p>
+								<p>
+								Homepage with more personal facts <a href="homepage_old.html">Here</a>
+								</p>
+							</section>
+
+					</div>
+
+				<!-- Footer -->
+					<footer id="footer">
+						<p class="copyright">&copy; 2016 - 2018 Cong Wang 
+						<br>
+						Hosted on <a href="https://github.com">GitHub</a> | Designed by <a href="https://html5up.net">HTML5 UP</a></p>
+						
+					</footer>
+
+			</div>
+
+		<!-- Scripts -->
+			<script src="assets/js/jquery.min.js"></script>
+			<script src="assets/js/jquery.scrollex.min.js"></script>
+			<script src="assets/js/jquery.scrolly.min.js"></script>
+			<script src="assets/js/skel.min.js"></script>
+			<script src="assets/js/util.js"></script>
+			<!--[if lte IE 8]><script src="assets/js/ie/respond.min.js"></script><![endif]-->
+			<script src="assets/js/main.js"></script>
+
+	</body>
+</html>
